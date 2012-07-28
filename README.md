@@ -9,7 +9,7 @@ This is a stable backup script, I have not added WordPress Plugin integration ye
 
 
 1. Upload to the WordPress Installation root or any directory
-2. There is nothing to activate. Point towards http://your-domain.com/run.php
+2. There is nothing to activate. Point towards your-domain.com/run.php
 3. Simply follow the on screen instruction, it absolutely looks like default WordPress files. 
 
 == Frequently Asked Questions ==
