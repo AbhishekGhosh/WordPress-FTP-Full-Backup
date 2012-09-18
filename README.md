@@ -26,7 +26,7 @@ Yes they are. But as you can see, this is a fully free plugin, aditionally many 
 
 This Plugin uses the PHP memory from outside WordPress. This is important for servers with low config. In future, there will be API based integration with WordPress Admin panel, but unlike other plugins it will never put stress on the working WordPress installation.
 
-###What is the recomanded settings for .htaccess ? =
+###What is the recomanded settings for .htaccess ?
 
 Set your PHP memory limit beyond 512 MB for smooth function. Simply add this line at the begining of your .htaccess file of the root :
 
