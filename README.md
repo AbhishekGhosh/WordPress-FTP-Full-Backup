@@ -22,7 +22,7 @@ This is the first version of the Plugin. Definitely there will be lot of feature
 
 Yes they are. But as you can see, this is a fully free plugin, aditionally many features will be added like uploading to Rackspace Cloud Files with cURL, Amazon S3, auto upload to almost all Free Cloud Storages.
 
-###What is the major difference between this WordPress FTP Full Backup Plugin and Others ? =
+###What is the major difference between this WordPress FTP Full Backup Plugin and Others ?
 
 This Plugin uses the PHP memory from outside WordPress. This is important for servers with low config. In future, there will be API based integration with WordPress Admin panel, but unlike other plugins it will never put stress on the working WordPress installation.
 
