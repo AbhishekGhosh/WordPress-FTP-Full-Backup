@@ -14,7 +14,7 @@ This is a stable backup script, I have not added WordPress Plugin integration ye
 
 ##Frequently Asked Questions
 
-##No WordPress Installation ?
+###No WordPress Installation ?
 
 This is the first version of the Plugin. Definitely there will be lot of features like premium plugins.
 
@@ -36,9 +36,18 @@ Ask your web host, the limit on PHP. If you can set PHP memory to higher yoursel
 
 ##Changelog
 
-= 1.0 =
 
-* First version released.
+### Version 1.6
+
+Description and Help Resources Added.
+
+### Version 1.5
+
+PHP ZipArchive class will not affect running Cron.
+
+### Version 1.0
+
+First version released.
 
 ##Download
 
